@@ -5,7 +5,7 @@ metadata:
   labels:
      app: myapp
      type: front-end
-sec:
+spec:
  containers:
    - name: niginx-container
      image: nginx
